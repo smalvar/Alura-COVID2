@@ -1,2 +1,4 @@
-# Alura-COVID2
-Curso de Previsão de Séries Temporais da Alura
+# Alura
+#### Curso Previsões de série temporal: COVID-19 
+
+
